@@ -1,28 +1,29 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using System.Windows;
-using System.Windows.Controls;
-using System.Windows.Data;
-using System.Windows.Documents;
-using System.Windows.Input;
-using System.Windows.Media;
-using System.Windows.Media.Imaging;
-using System.Windows.Navigation;
-using System.Windows.Shapes;
-
-namespace _111153008_Homework_1
+﻿using system;
+class program
 {
-    /// <summary>
-    /// MainWindow.xaml 的互動邏輯
-    /// </summary>
-    public partial class MainWindow : Window
+    static void Main()
     {
-        public MainWindow()
-        {
-            InitializeComponent();
-        }
+      Console.WriteLine("測試");
     }
+
+
 }
+
+
+
+//常見的資料型態與變數
+
+//1. 註解就是這兩個反斜線的東西
+
+//2. string 為字串 "這就是字串"
+
+//3. char 為字元 '字'
+
+//4. int 為整數 88 or -88
+
+//5. double 為浮點數 5.86
+
+//6. bool 為布林值 ture false
+
+
+ 
